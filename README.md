@@ -14,43 +14,36 @@
   　　[[Korei's Homepage]](https://github.com/korei-xlix/homepage)  
   
 
-
-* 当githubアカウントはフォローしないでください。  
-  必要があれば、上記開発者のアカウントまでお願いします。  
-  （そちらもフォローに関してルールがありますのでご確認ください）
+* 当githubアカウントをフォローされる場合は、必ずmisskeyアカウントをフォローしてください。  
+  その際、githubアカウントとmisskeyアカウントの関連が分かるようにしてください。  
   
-  　　Please do not follow this github account.  
-  　　If necessary, please contact the above developer account.  
-  　　(There are also rules for follow-up, so please check.)  
+  　　If you follow this github account, be sure to follow the misskey account.  
+  　　At that time, please make sure that the relationship between  
+  　　the github account and the misskey account is known.  
+  
+  　　[[misskey]](https://misskey.io/@samafeed)  
+  
 
-
-* 違反者はブロックの上、警告リストで晒します。悪しからず。  
-  　　Violators will be blocked and exposed on the warning list. Not bad.  
+* 違反者はブロックの上、管理者の警告リストで晒します。悪しからず。  
+  　　Violators will be blocked and exposed on the administrator's warning list.  
+  　　Not bad.  
   
   　　[[警告リスト（Warn list）]](https://github.com/korei-xlix/homepage/blob/main/warnlists/warnlist_github.md)
   
   
-   
   
 
 
 ***
-::Project= github profile  
+::Project= github profile (samafeed)  
 ::Admin= samafeed (@samafeed)  
 ::misskey= https://misskey.io/@samafeed  
+  
+***
+::Master Dev  
+::Admin= Korei (@korei-xlix)  
+::github= https://github.com/korei-xlix/  
+::Twitter https://twitter.com/korei_dev  
 
 
-<!--
-**korei-xlix/korei-xlix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
