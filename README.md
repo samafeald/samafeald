@@ -37,7 +37,6 @@
 ***
 ::Project= github profile  
 ::Admin= samafeed (@samafeed)  
-::github= https://github.com/samafeed/  
 ::misskey= https://misskey.io/@samafeed  
 
 
