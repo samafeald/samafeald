@@ -28,7 +28,7 @@
   　　Violators will be blocked and exposed on the administrator's warning list.  
   　　Not bad.  
   
-  　　[[警告リスト（Warn list）]]([https://github.com/korei-xlix/warnlists/blob/main/list_github.md)
+  　　[[警告リスト（Warn list）]](https://github.com/korei-xlix/warnlists/blob/main/list_github.md)
   
   
   
