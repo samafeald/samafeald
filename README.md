@@ -14,14 +14,19 @@
   　　[[Korei's Homepage]](https://github.com/korei-xlix/homepage)  
   
 
-* 当githubアカウントをフォローされる場合は、必ずmisskeyアカウントをフォローしてください。  
-  その際、githubアカウントとmisskeyアカウントの関連が分かるようにしてください。  
+* 当githubアカウントはフォローしないでください。管理者アカウントのフォローをお願いします。  
+　管理者のフォロー方法についても、管理者ホームページに記載されています。  
   
-  　　If you follow this github account, be sure to follow the misskey account.  
-  　　At that time, please make sure that the relationship between  
-  　　the github account and the misskey account is known.  
+  　　[[Korei's Homepage]](https://github.com/korei-xlix/homepage)  
   
+  　　Please do not follow this github account. Please follow the admin account.  
+  　　How to follow the administrator is also described on the administrator's homepage.  
+  
+
+* misskeyアカウントをフォローすることもできます。  
   　　[[misskey]](https://misskey.io/@samafeed)  
+  
+  　　You can also follow the misskey account.  
   
 
 * 違反者はブロックの上、管理者の警告リストで晒します。悪しからず。  
