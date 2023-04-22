@@ -35,15 +35,15 @@
 
 
 ***
-::Project= github profile (samafeed)  
-::Admin= samafeed (@samafeed)  
+::User= samafeed (@samafeed)  
 ::misskey= https://misskey.io/@samafeed  
   
+  
+
+
 ***
-::Master Dev  
+[[トップへ戻る]](/readme.md)  
+  
 ::Admin= Korei (@korei-xlix)  
 ::github= https://github.com/korei-xlix/  
 ::Twitter https://twitter.com/korei_dev  
-
-
-
