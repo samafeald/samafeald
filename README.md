@@ -10,9 +10,6 @@
     　When using each repository, please follow the terms of use  
   　　on the administrator homepage.  
   　　Copyrights and disclaimers are also described on the administrator's homepage.  
-  
-  　　[[Korei's Homepage]](https://github.com/korei-xlix/homepage)  
-  
 
 * 当githubアカウントはフォローしないでください。管理者アカウントのフォローをお願いします。  
 　管理者のフォロー方法についても、管理者ホームページに記載されています。  
