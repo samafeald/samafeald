@@ -1,4 +1,4 @@
-# Welcome to Samafeed github !
+# Welcome to Samafeald github !
 
 * このアカウントのリポジトリの所有権は管理者 Korei（これー）にあります。  
   各リポジトリをご利用される場合、管理者ホームページの利用規約に従ってください。  
@@ -20,8 +20,8 @@
   　　How to follow the administrator is also described on the administrator's homepage.  
   
 
-* misskeyアカウントをフォローすることもできます。  
-  　　[[misskey]](https://misskey.io/@samafeed)  
+* twitterアカウントをフォローすることもできます。  
+  　　[[twitter]](https://twitter.com/samafeald)  
   
   　　You can also follow the misskey account.  
   
@@ -37,8 +37,8 @@
 
 
 ***
-::User= samafeed (@samafeed)  
-::misskey= https://misskey.io/@samafeed  
+::User= samafeed (@samafeald)  
+::twitter= https://twitter.com/samafeald  
   
   
 
