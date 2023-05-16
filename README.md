@@ -4,7 +4,7 @@
   各リポジトリをご利用される場合、管理者ホームページの利用規約に従ってください。  
   著作権、免責事項についても、管理者ホームページに記載されています。  
   
-  　　[[Korei's Homepage]](https://github.com/korei-xlix/homepage)  
+  　　[[Korei's Homepage]](https://website.koreis-labo.com/)  
   
   　　This account's repository is owned by admin Korei.  
     　When using each repository, please follow the terms of use  
@@ -14,7 +14,7 @@
 * 当githubアカウントはフォローしないでください。管理者アカウントのフォローをお願いします。  
 　管理者のフォロー方法についても、管理者ホームページに記載されています。  
   
-  　　[[Korei's Homepage]](https://github.com/korei-xlix/homepage)  
+  　　[[Korei's Homepage]](https://website.koreis-labo.com/)  
   
   　　Please do not follow this github account. Please follow the admin account.  
   　　How to follow the administrator is also described on the administrator's homepage.  
