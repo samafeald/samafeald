@@ -36,16 +36,11 @@
   
 
 
-***
-::User= samafeed (@samafeald)  
-::twitter= https://twitter.com/samafeald  
-  
-  
 
 
 ***
 [[トップへ戻る]](/readme.md)  
   
-::Admin= Korei (@korei-xlix)  
-::github= https://github.com/korei-xlix/  
-::Twitter https://twitter.com/korei_dev  
+::Admin= samafeald (@samafeald)  
+::Homepage= https://website.koreis-labo.com/  
+::Twitter https://twitter.com/samafeald  
