@@ -20,10 +20,10 @@
   　　How to follow the administrator is also described on the administrator's homepage.  
   
 
-* twitterアカウントをフォローすることもできます。  
-  　　[[twitter]](https://twitter.com/samafeald)  
+* X アカウントをフォローすることもできます。  
+  　　[[X]](https://twitter.com/samafeald)  
   
-  　　You can also follow the misskey account.  
+  　　You can also follow the X account.  
   
 
 * 違反者はブロックの上、管理者の警告リストで晒します。悪しからず。  
@@ -43,4 +43,4 @@
   
 ::Admin= samafeald (@samafeald)  
 ::Homepage= https://website.koreis-labo.com/  
-::Twitter https://twitter.com/samafeald  
+::X= https://twitter.com/samafeald  
