@@ -1,4 +1,4 @@
-# Welcome to Samafeald github !
+# Welcome to Samafeald github
 
 * このアカウントのリポジトリの所有権は管理者 Korei（これー）にあります。  
   各リポジトリをご利用される場合、管理者ホームページの利用規約に従ってください。  
@@ -41,6 +41,7 @@
 ***
 [[トップへ戻る]](/readme.md)  
   
-::Admin= samafeald (@samafeald)  
-::Homepage= https://website.koreis-labo.com/  
-::X= https://twitter.com/samafeald  
+::Admin= Korei (@samafeald)  
+::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
+::Web= [https://website.koreis-labo.com/](https://website.koreis-labo.com/)  
+::X= [https://twitter.com/korei_xlix](https://twitter.com/samafeald)  
