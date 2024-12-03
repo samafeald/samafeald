@@ -23,7 +23,7 @@
 [[トップへ戻る]](/readme.md)  
   
 ::Sub Admin(me)= Samafeald (@samafeald)  
-::X(me)= [https://twitter.com/korei_xlix](https://x.com/samafeald)  
+::X(me)= [https://x.com/samafeald](https://x.com/samafeald)  
   
 ::Master Admin= Samafeald (@samafeald)  
 ::github= [https://github.com/korei-xlix/](https://github.com/korei-xlix/)  
